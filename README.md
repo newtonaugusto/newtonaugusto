@@ -1,9 +1,14 @@
 ## Olá! Eu sou o Newton Augusto. Seja bem-vindo!
-<div align="center">
+<div content: ""; clear: both; display: table; align="center">
+  
+  <div float: left; width: 50%; padding: 5px;>
+    <img src="https://github-readme-stats.vercel.app/api?username=newtonaugusto&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" style="width:100%">
+  </div>
+  <div float: left; width: 50%; padding: 5px;>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonaugusto&layout=compact&langs_count=7&theme=vision-friendly-dark" style="width:100%">
+  </div>
   <a href="https://github.com/newtonaugusto">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=newtonaugusto&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonaugusto&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
+
 
   ##
 
