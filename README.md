@@ -1,13 +1,12 @@
-## Olá! Eu sou o Newton Augusto. Seja bem-vindo!
-<div content: ""; clear: both; display: table; align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc61a&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc61a&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Newton+Augusto.;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
   
-  <div float: left; width: 50%; padding: 5px;>
-    <img src="https://github-readme-stats.vercel.app/api?username=newtonaugusto&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" style="width:100%">
-  </div>
-  <div float: left; width: 50%; padding: 5px;>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonaugusto&layout=compact&langs_count=7&theme=vision-friendly-dark" style="width:100%">
-  </div>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=newtonaugusto&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Newton Augusto github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonaugusto&layout=compact&langs_count=7&theme=vision-friendly-dark"> />
   <a href="https://github.com/newtonaugusto">
+</div>
 
 
   ##
