@@ -9,6 +9,7 @@
   ##
   
 ### Habilidades:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Newton-Dj" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Newton-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -19,7 +20,9 @@
   <img align="center" alt="Newton-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="right" alt="Newton-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202210/338224_iOAOwtLM.png">
 </div>
+
   ##
+  
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
