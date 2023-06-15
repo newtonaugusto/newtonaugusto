@@ -4,12 +4,6 @@
 ### :fire: My Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=newtonaugusto&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-<div align="center">  
-  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonaugusto&layout=compact&langs_count=7&theme=vision-friendly-dark">
-  <a href="https://github.com/newtonaugusto">
-</div>
-
 
   ##
 
