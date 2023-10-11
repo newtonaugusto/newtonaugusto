@@ -18,7 +18,7 @@
   <img align="center" alt="Newton-Pd" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Newton-Pytest" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg">
   <img align="center" alt="Newton-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="right" alt="Newton-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202210/338224_iOAOwtLM.png">
+  <img align="right" alt="Newton-pic" height="150" style="border-radius:50px;" src="[https://picrew.me/shareImg/org/202210/338224_iOAOwtLM.png](https://i.postimg.cc/DzhcRmT5/avataaars.png)">
 </div>
 
   ##
