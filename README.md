@@ -8,8 +8,6 @@
  
   ##
 
-
- <img align="left" alt="Newton-pic" height="100" width="100" style="border-radius:10px;" src="https://i.postimg.cc/DzhcRmT5/avataaars.png">
   
 ### Habilidades:
 
