@@ -20,8 +20,6 @@
   <img align="center" alt="Newton-Nodejs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Newton-Nestjs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
 </div>
-
-  ##
  
   ##
  
