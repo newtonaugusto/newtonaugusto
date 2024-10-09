@@ -19,6 +19,8 @@
   <img align="center" alt="Newton-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Newton-Nodejs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Newton-Nestjs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="Newton-Angularjs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/angularjs-original.svg">
+  <img align="center" alt="Newton-Reactjs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/reactjs-original.svg">
 </div>
  
   ##
