@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc61a&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc61a&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
-  
+  <div align="center">
 ### :fire: My Stats :
-<div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=newtonaugusto&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
-  ##
 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=newtonaugusto&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  ##
+</div>
   
 ### Habilidades:
 
