@@ -11,19 +11,24 @@
 ---
 
 ### 📊 General Statistics
+
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newtonaugusto&theme=github_dark">
+  <div style="max-width: 1000px; margin: 0 auto;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newtonaugusto&theme=github_dark&width=100%">
+  </div>
 </div>
 
 ---
 
 ### ⚡ Recent Activity
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px; width: 100%;">
-    <img style="height: 170px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=newtonaugusto&show_icons=true&theme=github_dark&title_color=5865F2&hide_border=true">
-    <img style="height: 170px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonaugusto&layout=compact&theme=github_dark&title_color=5865F2&hide_border=true">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px; width: 100%;">
+    <img style="height: 190px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=newtonaugusto&show_icons=true&theme=github_dark&title_color=5865F2&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions,prs_merged&show_rank=true&cache_seconds=3600">
+    <img style="height: 190px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonaugusto&layout=compact&theme=github_dark&title_color=5865F2&hide_border=true&hide=procfile&langs_count=8&exclude_repo=ghost&card_width=400">
   </div>
-</div>
+  
+  
 
 ---
 
