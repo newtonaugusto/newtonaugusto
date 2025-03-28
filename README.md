@@ -11,9 +11,9 @@
 
 ### ⚡ Atividade Recente
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px; width: 100%;">
-    <img style="height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=newtonaugusto&show_icons=true&theme=github_dark&title_color=5865F2&hide_border=true">
-    <img style="height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonaugusto&layout=compact&theme=github_dark&title_color=5865F2&hide_border=true">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px; width: 100%;">
+    <img style="height: 170px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=newtonaugusto&show_icons=true&theme=github_dark&title_color=5865F2&hide_border=true">
+    <img style="height: 170px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonaugusto&layout=compact&theme=github_dark&title_color=5865F2&hide_border=true">
   </div>
 </div>
 
