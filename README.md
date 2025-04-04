@@ -23,9 +23,16 @@
 
 ### ⚡ Recent Activity
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px; width: 100%;">
-  <img style="height: 190px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=newtonaugusto&show_icons=true&theme=github_dark&title_color=5865F2&hide_border=true&include_all_commits=true&count_private=true">
-    <img style="height: 190px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonaugusto&layout=compact&theme=github_dark&title_color=5865F2&hide_border=true&hide=procfile&langs_count=8&exclude_repo=ghost&card_width=400">
+  <table>
+  <tr>
+    <td>
+      <img style="height: 190px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=newtonaugusto&show_icons=true&theme=github_dark&title_color=5865F2&hide_border=true&include_all_commits=true&count_private=true">
+    </td>
+    <td>
+      <img style="height: 190px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonaugusto&layout=compact&theme=github_dark&title_color=5865F2&hide_border=true&hide=procfile&langs_count=8&exclude_repo=ghost&card_width=400">
+    </td>
+  </tr>
+</table>
   </div>
   
   
